@@ -10,6 +10,30 @@ background-color:#F5F5F5;
 background-color:#8DCF3F;
 }
 
+.textContainer{
+	text-align:center;
+	width:60%;
+	min-width:500px;
+	padding:15px;
+	margin:0 auto;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	background-color: rgba(255,255,255,0.3);
+}
+
+.nn{
+	width:100px;
+	float: left;
+}
+
+.dd{
+	width:400px;
+}
+
+.tt{
+	margin:0 auto;
+}
 /* Section 3
  * --------------------------------------- */
 #section3{

@@ -1,0 +1,25 @@
+﻿body{
+	
+text-align:center;
+
+	background-color:#33BFDB;
+
+	position:relative;
+
+
+	font-family: “Times New Roman”, “游明朝”, YuMincho, “ヒラギノ明朝 ProN W3”, “Hiragino Mincho ProN”, “メイリオ”, Meiryo, serif;
+}
+
+
+
+
+.section{
+
+
+	width:70%;
+
+	margin: 0 auto;
+
+	margin-top:10%;
+
+}

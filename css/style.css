@@ -11,7 +11,7 @@ background-color:#8DCF3F;
 }
 
 .textContainer{
-	width:60%;
+	width:70%;
 	padding:15px;
 	margin:0 auto;
 	-webkit-border-radius: 10px;
@@ -44,6 +44,9 @@ background-color:#8DCF3F;
 background-color:#FDC44F;
 }
 
+.joinList{
+	text-align:left;
+}
 
 /* Section 4
  * --------------------------------------- */

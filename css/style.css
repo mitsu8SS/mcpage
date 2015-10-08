@@ -23,18 +23,20 @@ background-color:#8DCF3F;
 .tt{
 	width:80%;
 	margin:0 auto;
+	margin-bottom:3px;
 }
 
 .nn{
+	text-align:left;
 	width:100px;
 	float:left;
 }
 
 .dd{
+	
 	text-align:left;
 	width:auto;
 }
-
 
 /* Section 3
  * --------------------------------------- */

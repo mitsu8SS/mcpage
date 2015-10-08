@@ -60,20 +60,22 @@ abbr,acronym {
  * --------------------------------------- */
 
 body {
-	font-family: Arial, “Droid Sans”, “游ゴシック”, YuGothic, “ヒラギノ角ゴ ProN W3”, “Hiragino Kaku Gothic ProN”, “メイリオ”, Meiryo, sans-serif;
+	color:#45454A;
+	font-family: Arial, Roboto, “Droid Sans”, “游ゴシック”, YuGothic, “ヒラギノ角ゴ ProN W3”, “Hiragino Kaku Gothic ProN”, “メイリオ”, Meiryo, sans-serif;
 }
 
 * h1{
 	font-size: 6em;
 	color:#38383E;
 	font-family: 'Quicksand', sans-serif;
-	
+	z-index: 5;
 }
 
 
 * p{
-	font-size: 2em;
+	font-size: 1.7em;
 	color:#45454A;
+	font-family:Arial;
 }
 
 

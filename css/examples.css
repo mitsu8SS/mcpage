@@ -1,6 +1,7 @@
 ﻿@CHARSET "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Merriweather+Sans:300italic);
 @import url(https://fonts.googleapis.com/css?family=Quicksand:300);
+@import url(https://fonts.googleapis.com/css?family=Coming+Soon);
 /* Reset CSS
  * --------------------------------------- */
 
@@ -68,6 +69,7 @@ body {
 	font-size: 6em;
 	color:#38383E;
 	font-family: 'Quicksand', sans-serif;
+font-family: 'Coming Soon', cursive;
 	z-index: 5;
 }
 
